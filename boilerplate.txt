@@ -1,0 +1,10 @@
+[B]Student Name[/B]:
+[B]University ID[/B]:
+
+[B]Exam instructions[/B]:
+
+* Make sure to provide the correct [B]Name and ID[/B] in the answer sheet.
+* Please give a [B]visible tick mark[/B] on the answer you chose. Any other marking WILL NOT be considered.
+* If there are [B]Multiple[/B] tick marks in one question, it will be [B]disqualified[/B].
+* If you correct your answer, make sure the correction is [B]understandable[/B]. If it is not, then you [B]will not[/B] get any marks. If you think there is no correct answer, then choose the one that you think is the closest to the correct answer
+* There is no negative marking, but any attempt of unfair means will be penalised.

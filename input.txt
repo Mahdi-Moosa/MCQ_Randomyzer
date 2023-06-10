@@ -1,0 +1,25 @@
+Q1: What is the capital of Bangladesh?
+a. Chittagong
+b. Dhaka
+c. Rajshahi
+d. Barisal
+
+Q2: What is the capital of Pakistan?
+a. Karachi
+b. Peshawar
+c. Islamabad
+d. Multan
+e. Quetta
+f. Lahore
+
+Q3: What is the capital of Saudi Arabia?
+a. Medinah
+b. Jeddah
+c. Makkah
+
+Q4:	Which of the below is the dominant reserve currency?
+a. Turkish Lira
+b. US Dollar
+c. South African Gold
+d. British Pound
+e. Saudi Riyal
